@@ -9,3 +9,5 @@ Setup on Ubuntu server 12.04 Precise:
 * install the 3rd party python libraries from /app/vendor
 * remove extraneous x-apps from ~/.vnc/xstartup
 * restart
+
+For use with the following public AMI: ami-79a50c10

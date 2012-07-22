@@ -190,7 +190,7 @@ def twsInit(clientId=None):
     tws.connect()
 
 #
-def serverInit(port=2503, handler=Handler):
+def serverInit(port=2502, handler=Handler):
     
     def serve():
         s = ThreadedHTTPServer(("", port), handler)
@@ -241,8 +241,8 @@ if __name__ == '__main__':
     ui.start()
     
     # do it up
-    twsInit(2503)
-    serverInit(2503)
+    twsInit(2502)
+    serverInit(2502)
     
     # bind tws specific handlers
     ui.bind("x", tws.disconnect)
