@@ -1,0 +1,9 @@
+#
+#
+#
+
+# get script dir
+dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+# rsync deploy
+rsync -auvz --delete $dir/app/ ubuntu@23.20.187.245:app/

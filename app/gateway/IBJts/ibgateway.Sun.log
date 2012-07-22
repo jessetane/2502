@@ -1,0 +1,69 @@
+FO 03:48:21:524 JTS-Main: Created on: 20120722
+FO 03:48:21:524 JTS-Main: ------------------------------- IB GATEWAY RESTART --------------------------------
+FO 03:48:21:534 JTS-Main: Jts dir is ./
+FO 03:48:21:619 JTS-Main: PROXY Installed custom selector
+FO 03:48:21:634 JTS-Main: Region:America dr:false
+FO 03:48:21:634 JTS-Main: Locale from OS: en_US
+FO 03:48:21:634 JTS-Main: Property locale_to_use=en
+FO 03:48:21:634 JTS-Main: JTS Locale=en_US  country=United States  variant=
+FO 03:48:21:635 JTS-Main: Locale=en_US  country=United States  variant=
+FO 03:48:21:636 JTS-Main: Error no jar:/Users/jessetane/Dropbox/Jesse/Work/Pops/schnizter/app/bin/IBJts/language.jar
+FO 03:48:21:636 JTS-Main: prohibiting class lookup [ji18n.Language]
+FO 03:48:22:331 JTS-Main: prohibiting class lookup [ji18n.Language_en]
+FO 03:48:22:331 JTS-Main: prohibiting class lookup [ji18n.Language_en_US]
+FO 03:48:22:332 JTS-Main: prohibiting resource lookup [ji18n/Language_en_US.properties]
+FO 03:48:22:332 JTS-Main:   actual locale: 
+FO 03:48:22:371 JTS-Main: Build 928.5, Jul 17, 2012 3:07:28 PM
+FO 03:48:22:752 JTS-Main: LookAndFeelChangedListener installed
+FO 03:48:22:759 JTS-Main: JtsLookAndFeel initialized
+FO 03:48:23:709 JTS-Main: Current LAF: TWS LAF
+FO 03:48:24:289 AWT-EventQueue-0: java.lang.UnsupportedOperationException: Toolkit.getLockingKeyState
+FO 03:48:25:260 AWT-EventQueue-0: Started on 20120722-07:48:25
+FO 03:48:25:268 AWT-EventQueue-0: Default timezone:America/New_York name:Eastern Standard Time dst:3600000
+FO 03:48:25:268 AWT-EventQueue-0: java version = 1.6.0_33
+FO 03:48:25:268 AWT-EventQueue-0: sun.arch.data.model = 64
+FO 03:48:25:268 AWT-EventQueue-0: os = Mac OS X
+FO 03:48:25:268 AWT-EventQueue-0: runtime = Java(TM) SE Runtime Environment
+FO 03:48:25:268 AWT-EventQueue-0: vendor = Apple Inc.
+FO 03:48:25:268 AWT-EventQueue-0: vm name = Java HotSpot(TM) 64-Bit Server VM
+FO 03:48:25:319 AWT-EventQueue-0: WebRegionURL Path:/java/classes/locales.jar URL:http://www.interactivebrokers.com/java/classes/locales.jar
+FO 03:48:25:322 AWT-EventQueue-0: downloading file: /Users/jessetane/Dropbox/Jesse/Work/Pops/schnizter/app/bin/IBJts/locales.jar from http://www.interactivebrokers.com/java/classes/locales.jar
+FO 03:48:25:322 AWT-EventQueue-0: Starting to download 'http://www.interactivebrokers.com/java/classes/locales.jar' using HotBackup 'http://www.interactivebrokers.com/java/classes/locales.jar'
+FO 03:48:25:800 AWT-EventQueue-0: Finished downloading file: /java/classes/locales.jar
+FO 03:48:25:946 AWT-EventQueue-0: Installing listeners for ibgateway.dc[frame0,0,22,1x1,invalid,hidden,layout=java.awt.BorderLayout,title=IB Gateway,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+FO 03:48:26:623 JTS-DeadlockMonitor: Memory:total=517,760KB free=419,067KB HeapUsage: Max=517,760KB used=98,862KB committed=164,792KB NonHeapUsage: Max=133,120KB used=27,165KB committed=40,908KB
+FO 03:48:27:645 JTS-DeadlockMonitor: CPU:cur=0.53% avg=0.53% 30 min avg=0.53% 5 min avg=0.53% 1 min avg=0.53%
+FO 03:48:27:645 JTS-DeadlockMonitor: GC:called=29 times CPU used=1.18%
+FO 03:48:27:645 JTS-DeadlockMonitor: Finalizer:cur=0.00% avg=0.00% 30 min avg=0.00% 5 min avg=0.00% 1 min avg=0.00%
+FO 03:48:55:624 AWT-EventQueue-0: called cleanupMktSrvr
+ST 05:48:59:916 JTS-Main: ------------------------------- IB GATEWAY RESTART --------------------------------
+ST 05:48:59:920 JTS-Main: Jts dir is ./
+ST 05:48:59:943 JTS-Main: PROXY Installed custom selector
+ST 05:48:59:948 JTS-Main: Region:America dr:false
+ST 05:48:59:948 JTS-Main: Locale from OS: en_US
+ST 05:48:59:948 JTS-Main: Property locale_to_use=en
+ST 05:48:59:949 JTS-Main: JTS Locale=en_US  country=United States  variant=
+ST 05:48:59:949 JTS-Main: Locale=en_US  country=United States  variant=
+ST 05:48:59:949 JTS-Main: Error no jar:/Users/jessetane/Dropbox/Jesse/Work/Pops/schnitzer/app/bin/IBJts/language.jar
+ST 05:48:59:949 JTS-Main: prohibiting class lookup [ji18n.Language]
+ST 05:49:00:205 JTS-Main: prohibiting class lookup [ji18n.Language_en]
+ST 05:49:00:205 JTS-Main: prohibiting class lookup [ji18n.Language_en_US]
+ST 05:49:00:205 JTS-Main: prohibiting resource lookup [ji18n/Language_en_US.properties]
+ST 05:49:00:205 JTS-Main:   actual locale: 
+ST 05:49:00:211 JTS-Main: Build 928.5, Jul 17, 2012 3:07:28 PM
+ST 05:49:00:333 JTS-Main: LookAndFeelChangedListener installed
+ST 05:49:00:335 JTS-Main: JtsLookAndFeel initialized
+ST 05:49:00:687 JTS-Main: Current LAF: TWS LAF
+ST 05:49:00:817 AWT-EventQueue-0: java.lang.UnsupportedOperationException: Toolkit.getLockingKeyState
+ST 05:49:01:164 AWT-EventQueue-0: Started on 20120722-09:49:01
+ST 05:49:01:167 AWT-EventQueue-0: Default timezone:America/New_York name:Eastern Standard Time dst:3600000
+ST 05:49:01:167 AWT-EventQueue-0: java version = 1.6.0_33
+ST 05:49:01:167 AWT-EventQueue-0: sun.arch.data.model = 64
+ST 05:49:01:167 AWT-EventQueue-0: os = Mac OS X
+ST 05:49:01:167 AWT-EventQueue-0: runtime = Java(TM) SE Runtime Environment
+ST 05:49:01:167 AWT-EventQueue-0: vendor = Apple Inc.
+ST 05:49:01:167 AWT-EventQueue-0: vm name = Java HotSpot(TM) 64-Bit Server VM
+ST 05:49:01:192 AWT-EventQueue-0: WebRegionURL Path:/java/classes/locales.jar URL:http://www.interactivebrokers.com/java/classes/locales.jar
+ST 05:49:01:266 AWT-EventQueue-0: using already downloaded file /Users/jessetane/Dropbox/Jesse/Work/Pops/schnitzer/app/bin/IBJts/locales.jar
+ST 05:49:01:312 AWT-EventQueue-0: Installing listeners for ibgateway.dc[frame0,0,22,1x1,invalid,hidden,layout=java.awt.BorderLayout,title=IB Gateway,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+ST 05:49:03:180 AWT-EventQueue-0: called cleanupMktSrvr

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+cd $dir/../gateway/IBJts
+vncserver :0
+export DISPLAY=:0
+java -cp jts.jar:hsqldb.jar:jcommon-1.0.12.jar:jhall.jar:other.jar:rss.jar -Dsun.java2d.noddraw=true -Xmx512M ibgateway.GWClient . > /dev/null 2>&1 &

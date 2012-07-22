@@ -1,0 +1,4 @@
+#!/bin/bash
+
+dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+python3.2 $dir/../server.py
