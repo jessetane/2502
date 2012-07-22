@@ -6,4 +6,4 @@
 dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # rsync deploy
-rsync -auvz --delete $dir/app/ ubuntu@23.20.187.245:app/
+rsync -auvz -e "ssh -i "$dir"/../keypair.pem" $dir/../app/ ubuntu@184.72.157.61:app/

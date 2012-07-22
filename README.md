@@ -1,9 +1,11 @@
-Built on Ubuntu server 12.04 Precise
+Setup on Ubuntu server 12.04 Precise:
 
 * sudo apt-get install openjdk-7-jre
-* sudo apt-get install python3.2
 * sudo apt-get install vnc4server
-* deploy
-* vncserver :0
-* edit /etc/
+* sudo apt-get install gnome-core
+* sudo apt-get install python3.2
+* download and install pytz for py3k
+* deploy the app directory
+* install the 3rd party python libraries from /app/vendor
+* remove extraneous x-apps from ~/.vnc/xstartup
 * restart

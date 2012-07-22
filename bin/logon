@@ -6,4 +6,4 @@
 dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # ssh in
-ssh -i $dir/../twosixheave-keypair.pem ubuntu@23.20.187.245
+ssh -i $dir/../keypair.pem ubuntu@184.72.157.61
